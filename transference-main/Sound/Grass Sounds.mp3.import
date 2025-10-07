@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b41e7g3dli4rh"
+path="res://.godot/imported/Grass Sounds.mp3-f01338e8ac83fe51c153632ddde0a6ca.mp3str"
+
+[deps]
+
+source_file="res://Sound/Grass Sounds.mp3"
+dest_files=["res://.godot/imported/Grass Sounds.mp3-f01338e8ac83fe51c153632ddde0a6ca.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
